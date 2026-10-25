@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "package": "com.coolnydude.exposureletters.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "minVersion": "0.8",
+  "mixins": [
+    "LecternBlockMixin",
+    "LecternBlockEntityMixin"
+  ],
+  "client": [
+    "client.LecternRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

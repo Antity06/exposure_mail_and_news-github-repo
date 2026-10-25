@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "exposure_letters:note",
+    "exposure_letters:printed_newspaper",
+    "exposure_letters:paper_plane",
+    "exposure_letters:paper_boat",
+    "exposure:photograph",
+    "exposure:stacked_photographs",
+    "minecraft:paper",
+    "minecraft:map",
+    "minecraft:filled_map"
+  ]
+}

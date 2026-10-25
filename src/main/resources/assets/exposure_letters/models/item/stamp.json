@@ -1,0 +1,56 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "exposure_letters:item/stamp_generic"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "exposure_letters:design": 0.1
+      },
+      "model": "exposure_letters:item/stamp_flower"
+    },
+    {
+      "predicate": {
+        "exposure_letters:design": 0.2
+      },
+      "model": "exposure_letters:item/stamp_creeper"
+    },
+    {
+      "predicate": {
+        "exposure_letters:design": 0.3
+      },
+      "model": "exposure_letters:item/stamp_skull"
+    },
+    {
+      "predicate": {
+        "exposure_letters:design": 0.4
+      },
+      "model": "exposure_letters:item/stamp_mojang"
+    },
+    {
+      "predicate": {
+        "exposure_letters:design": 0.5
+      },
+      "model": "exposure_letters:item/stamp_globe"
+    },
+    {
+      "predicate": {
+        "exposure_letters:design": 0.6
+      },
+      "model": "exposure_letters:item/stamp_piglin"
+    },
+    {
+      "predicate": {
+        "exposure_letters:design": 0.7
+      },
+      "model": "exposure_letters:item/stamp_flow"
+    },
+    {
+      "predicate": {
+        "exposure_letters:design": 0.8
+      },
+      "model": "exposure_letters:item/stamp_guster"
+    }
+  ]
+}

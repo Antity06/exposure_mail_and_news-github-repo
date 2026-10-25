@@ -1,0 +1,20 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "exposure_letters:item/envelope_empty"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "exposure_letters:state": 0.5
+      },
+      "model": "exposure_letters:item/envelope_filled"
+    },
+    {
+      "predicate": {
+        "exposure_letters:state": 1
+      },
+      "model": "exposure_letters:item/envelope_sealed"
+    }
+  ]
+}

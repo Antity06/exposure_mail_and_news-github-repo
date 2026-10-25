@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "exposure_letters:block/paper_boat"
+    },
+    "facing=south": {
+      "model": "exposure_letters:block/paper_boat",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "exposure_letters:block/paper_boat",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "exposure_letters:block/paper_boat",
+      "y": 90
+    }
+  }
+}

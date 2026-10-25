@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "exposure_letters:note",
+    "exposure_letters:printed_newspaper",
+    "exposure_letters:newspaper",
+    "exposure_letters:newspaper_draft"
+  ]
+}
